@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/mhoehle/mhoehle.r-universe.dev
 	branch = HEAD
+[submodule "binomSamSize"]
+	path = binomSamSize
+	url = https://github.com/mhoehle/binomSamSize
+[submodule "birthdayproblem"]
+	path = birthdayproblem
+	url = https://github.com/mhoehle/birthdayproblem
+[submodule "quantileCI"]
+	path = quantileCI
+	url = https://github.com/mhoehle/quantileCI
+[submodule "socialroulette"]
+	path = socialroulette
+	url = https://github.com/mhoehle/socialroulette
