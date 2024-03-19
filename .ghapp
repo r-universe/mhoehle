@@ -1,0 +1,10 @@
+{
+  "id": 48655294,
+  "created_at": "2024-03-19T23:23:50.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["mhoehle.r-universe.dev"]
+}
